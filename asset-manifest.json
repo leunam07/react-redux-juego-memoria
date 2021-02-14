@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-redux-juego-memoria/static/css/main.15570892.chunk.css",
+    "main.js": "/react-redux-juego-memoria/static/js/main.ff3b4ee0.chunk.js",
+    "main.js.map": "/react-redux-juego-memoria/static/js/main.ff3b4ee0.chunk.js.map",
+    "runtime-main.js": "/react-redux-juego-memoria/static/js/runtime-main.c05d900e.js",
+    "runtime-main.js.map": "/react-redux-juego-memoria/static/js/runtime-main.c05d900e.js.map",
+    "static/css/2.a3dfec79.chunk.css": "/react-redux-juego-memoria/static/css/2.a3dfec79.chunk.css",
+    "static/js/2.19f7a668.chunk.js": "/react-redux-juego-memoria/static/js/2.19f7a668.chunk.js",
+    "static/js/2.19f7a668.chunk.js.map": "/react-redux-juego-memoria/static/js/2.19f7a668.chunk.js.map",
+    "static/js/3.1491ab3a.chunk.js": "/react-redux-juego-memoria/static/js/3.1491ab3a.chunk.js",
+    "static/js/3.1491ab3a.chunk.js.map": "/react-redux-juego-memoria/static/js/3.1491ab3a.chunk.js.map",
+    "index.html": "/react-redux-juego-memoria/index.html",
+    "static/css/2.a3dfec79.chunk.css.map": "/react-redux-juego-memoria/static/css/2.a3dfec79.chunk.css.map",
+    "static/css/main.15570892.chunk.css.map": "/react-redux-juego-memoria/static/css/main.15570892.chunk.css.map",
+    "static/js/2.19f7a668.chunk.js.LICENSE.txt": "/react-redux-juego-memoria/static/js/2.19f7a668.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/react-redux-juego-memoria/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/skye.ef2ccd39.png": "/react-redux-juego-memoria/static/media/skye.ef2ccd39.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c05d900e.js",
+    "static/css/2.a3dfec79.chunk.css",
+    "static/js/2.19f7a668.chunk.js",
+    "static/css/main.15570892.chunk.css",
+    "static/js/main.ff3b4ee0.chunk.js"
+  ]
+}
