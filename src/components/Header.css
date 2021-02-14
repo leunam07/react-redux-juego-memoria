@@ -1,0 +1,33 @@
+header {
+	height: 50px;
+	border: 1px solid black;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+	width: 80%;
+	margin-left: 10%;
+}
+
+.title {
+	font-size: 25px;
+	padding: 10px;
+	color: #fff;
+}
+
+.float {
+	position: absolute;
+    left: 50px;
+	top: 65px;
+	width: 60px;
+	height: 60px;
+	background-color: rgb(243, 243, 243);
+	color: rgb(235, 34, 235);
+	border-radius: 50px;
+	text-align: center;
+	box-shadow: 2px 2px 3px rgb(235, 160, 160);
+}
+
+.my-float {
+	margin-top: 15px;
+}

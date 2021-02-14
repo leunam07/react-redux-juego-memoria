@@ -1,0 +1,29 @@
+.play-card {
+	width: 125px;
+	height: 125px;
+}
+
+.content {
+	width: 125px;
+	height: 125px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #d849a8;
+}
+
+.icon{
+	font-weight: 700;
+	font-size: 6rem;
+}
+
+.cover{
+	width: 125px;
+	height: 125px;
+	background-color: #d849a8;
+}
+
+.ReactFlipCard{
+	height: 100%;
+	width: 100%;
+}
